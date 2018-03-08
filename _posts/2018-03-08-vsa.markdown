@@ -1,6 +1,7 @@
 ---
 title: "VSA on AIGA"
 description: "VSA on AIGA eye on design"
+author: "Anne Other"
 ---
 # This is a first-level hed
 ### This is also a third-level hed
