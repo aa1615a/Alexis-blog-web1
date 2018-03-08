@@ -2,6 +2,26 @@
 title: "VSA on AIGA"
 description: "VSA on AIGA eye on design"
 ---
+# This is a first-level hed
+### This is also a third-level hed
+
+Graf = hit return twice.
+
+- this item will become a list
+- remember to make list items
+
+### Ingredients
+
+- roasted squash
+- mini-toothpaste
+- 4000 lbs. dried fennel
+
+### Procedures
+
+1. burn the fennel
+2. Get takeout
+
+[text that will be a link go here] (https://webaddressgoeshere.com)
 
 This is an article from AIGA that is cool
-https://eyeondesign.aiga.org/chicagos-vsa-partners-on-design-with-a-big-d-as-the-ultimate-business-tool/
+[original post] (https://eyeondesign.aiga.org/chicagos-vsa-partners-on-design-with-a-big-d-as-the-ultimate-business-tool/)
