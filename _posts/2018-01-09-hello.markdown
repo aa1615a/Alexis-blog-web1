@@ -3,5 +3,5 @@ title: "Hello world"
 description: "This text shows up in search engine previews"
 ---
 
-This is a post. Rename the file and replace it with a real post.
-here is an edit
+This is an article from AIGA
+https://eyeondesign.aiga.org/chicagos-vsa-partners-on-design-with-a-big-d-as-the-ultimate-business-tool/
