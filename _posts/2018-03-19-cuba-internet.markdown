@@ -1,10 +1,7 @@
 ---
-title: "AIGA Eye on Design"
-description: "AIGA's design blog"
+title: "VOX: How Cuba Streams without Internet"
+description: "vox explainer on Cuban media piracy"
 ---
-
-date 03-19-18
-
 
 ## Something I learned about during my spring break trip
 Really interesting video story by Vox.com. It makes me wonder how digital media functions when used apart from the websites they were orginally formatted for.
