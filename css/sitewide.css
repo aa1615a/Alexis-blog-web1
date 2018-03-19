@@ -46,6 +46,10 @@ a {
 a:hover {
 	color: #C3CDFF;
 }
+
+h2 {
+	color: black;
+}
 /*	Generally, you will only want one container element in
 	the document, wrapping around the main content area. 
 	If you have more than one container, you are probably doing
