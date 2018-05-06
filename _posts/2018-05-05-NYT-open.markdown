@@ -1,0 +1,12 @@
+---
+title: "NYT Open"
+description: "New York Times reporting on their digital newsroom"
+---
+
+
+![alt text](https://cdn-images-1.medium.com/max/600/1*YvxxeNwzfV7-wqtEW4QFdg@2x.png "NYT Open")
+## New York Times Open
+
+
+My news design class visited the New York Times earlier this semester. They talked to us about the changes they're making in their newsroom to develop code that all of their writers can use. They've been very open about the process and actaully make their code available for others to use. Here is the section of their site where they publish updates on what they have been doing around the newsroom.  
+[NYT Open](https://open.nytimes.com/)
