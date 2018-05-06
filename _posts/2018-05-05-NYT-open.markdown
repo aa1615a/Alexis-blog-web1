@@ -4,7 +4,7 @@ description: "New York Times reporting on their digital newsroom"
 ---
 
 
-![alt text](https://cdn-images-1.medium.com/max/600/1*YvxxeNwzfV7-wqtEW4QFdg@2x.png "NYT Open")
+![alt text](https://pbs.twimg.com/profile_images/964382919182598144/eXMky0Pe_400x400.jpg "NYT logo")
 ## New York Times Open
 
 
