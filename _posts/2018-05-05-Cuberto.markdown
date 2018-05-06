@@ -1,0 +1,11 @@
+---
+title: "Cuberto"
+description: "Exceptionally well-designed site"
+---
+
+## Cuberto
+
+
+Sometimes the best way for web desingers to show case their talents is on their own websites. Cuberto is a team of web developers who created a great site. The page scrolling is incredibly smooth and the whole site has a cohesive feel even though they use different colors for each page.
+
+![cuberto-screenshot]({{site.url}}/desktop/cuberto-screenshot.jpg){:class="img-responsive"}
