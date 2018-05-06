@@ -7,4 +7,4 @@ description: "Your buzzfeed favorites are doing lines...of code."
 <span style="display:block;text-align:center">[![IMAGE ALT TEXT](https://i.ytimg.com/an_webp/H5Vzo-iPGCo/mqdefault_6s.webp?du=3000&sqp=CM6wudcF&rs=AOn4CLAHO2gj9dW0aNrAoRBE_NRG9z-4uA)](https://youtu.be/H5Vzo-iPGCo "Try Guys Try Coding")
 
 
-<p style="text-align: center;">Your buzzfeed favorites are doing lines...of code.</p>
+<p style="text-align: center;">Your buzzfeed favorites are doing lines...of code. (Click photo)</p>
