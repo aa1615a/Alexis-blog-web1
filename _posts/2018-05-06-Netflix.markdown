@@ -4,6 +4,6 @@ description: "technology based twilight zone of today"
 ---
 
 
-<span style="display:block;text-align:center">[![IMAGE ALT TEXT](https://cdn-images-1.medium.com/max/1600/1*-h1F-dn6_B2yWKsT1vPsLg.jpeg)] (https://www.netflix.com/title/70264888 "Black Mirror")
+<span style="display:block;text-align:center">[![IMAGE ALT TEXT](https://cdn-images-1.medium.com/max/1600/1*-h1F-dn6_B2yWKsT1vPsLg.jpeg)](https://www.netflix.com/title/70264888 "Black Mirror")
 
 One of my favorites shows. Its a super trippy, twilight zone style science fiction show about the consequences of rapid technological improvements in the near future. A great way to consider the ethics of the things we use.
