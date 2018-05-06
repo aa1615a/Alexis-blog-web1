@@ -3,6 +3,7 @@ title: "3D Printer"
 description: "What you need to know about 3D printing"
 ---
 
+## Why 3D printers?
 
 I think 3D printers are cool. I've only gotten to use them once or twice but would like to use the more in the future. They have a lot of awesome potential.
 
