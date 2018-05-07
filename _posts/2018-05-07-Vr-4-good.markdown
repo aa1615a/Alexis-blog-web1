@@ -1,6 +1,6 @@
 ---
-title: "XXX"
-description: "XXX"
+title: "VR for Good"
+description: "VR for Good program by Oculus"
 ---
 
 Cool intiative by Oculus that I learned about while researching my conference project. I would love to see some of the work these students produce and I hope more will get the oppotunity to produce work like this. 
