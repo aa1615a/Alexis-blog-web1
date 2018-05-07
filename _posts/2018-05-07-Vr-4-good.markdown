@@ -4,6 +4,7 @@ description: "VR for Good program by Oculus"
 ---
 
 Cool intiative by Oculus that I learned about while researching my conference project. I would love to see some of the work these students produce and I hope more will get the oppotunity to produce work like this. 
+
 [VR for Good](https://www.oculus.com/vr-for-good/high-school-360-challenge/)
 
 <span style="display:block;text-align:center">![alt text](https://assets.pcmag.com/media/images/503781-oculus-vr-for-good.jpg?thumb=y&width=810&height=456 "VR for Good Cover")
